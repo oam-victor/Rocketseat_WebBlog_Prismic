@@ -11,6 +11,6 @@
 
 ## 🛠️ Tecnologias/Ferramentas ultilizadas
 
-* [React](https://pt-br.reactjs.org/E)
+* [React](https://pt-br.reactjs.org/)
 * [Next.js](https://nextjs.org/)
 * [Prismic CMS](https://prismic.io/)
